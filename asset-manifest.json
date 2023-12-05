@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-app/static/css/main.46ae4156.css",
-    "main.js": "/portfolio-app/static/js/main.8b7827b2.js",
+    "main.css": "/portfolio-app/static/css/main.61f2d5ab.css",
+    "main.js": "/portfolio-app/static/js/main.c1f91dea.js",
     "static/js/787.30237536.chunk.js": "/portfolio-app/static/js/787.30237536.chunk.js",
     "static/media/TiroBangla-Regular.ttf": "/portfolio-app/static/media/TiroBangla-Regular.f1fba5532e3ad1adc588.ttf",
     "static/media/netflix.jpg": "/portfolio-app/static/media/netflix.08d20677edfff3beefd3.jpg",
+    "static/media/Flipkart.jpg": "/portfolio-app/static/media/Flipkart.b10faafc265c786278cf.jpg",
     "static/media/landing.jpg": "/portfolio-app/static/media/landing.3856222a0d0e82c1faa8.jpg",
     "static/media/Amethysta-Regular.ttf": "/portfolio-app/static/media/Amethysta-Regular.92d95e285d5c11ba0491.ttf",
     "static/media/stopwatch.jpg": "/portfolio-app/static/media/stopwatch.5b87904f38f3ac13cc6e.jpg",
+    "static/media/Todo.jpg": "/portfolio-app/static/media/Todo.8b8b03201597f7bff4c8.jpg",
     "static/media/lead.svg": "/portfolio-app/static/media/lead.02840bc63610be7357de4e848999c34f.svg",
     "index.html": "/portfolio-app/index.html",
-    "main.46ae4156.css.map": "/portfolio-app/static/css/main.46ae4156.css.map",
-    "main.8b7827b2.js.map": "/portfolio-app/static/js/main.8b7827b2.js.map",
+    "main.61f2d5ab.css.map": "/portfolio-app/static/css/main.61f2d5ab.css.map",
+    "main.c1f91dea.js.map": "/portfolio-app/static/js/main.c1f91dea.js.map",
     "787.30237536.chunk.js.map": "/portfolio-app/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46ae4156.css",
-    "static/js/main.8b7827b2.js"
+    "static/css/main.61f2d5ab.css",
+    "static/js/main.c1f91dea.js"
   ]
 }
